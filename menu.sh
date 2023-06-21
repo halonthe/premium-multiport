@@ -180,7 +180,7 @@ echo -e " \e[$below      $total_ssh        $vmess      $vless       $xtls       
 echo -e " \e[$line╒════════════════════════════════════════════════════════════╕\e[m"
 echo -e "  \e[$back_text                        \e[30m[\e[$box PANEL MENU\e[30m ]\e[1m                      \e[m"
 echo -e " \e[$line╘════════════════════════════════════════════════════════════╛\e[m"
-echo -e "  \e[$number (•1)\e[m \e[$below XRAY VMESS & VLESS\e[m   \e[$number (•4)\e[m \e[$below XRAY BUG TELCO\e[m"
+echo -e "  \e[$number (•1)\e[m \e[$below XRAY VMESS & VLESS\e[m   \e[$number (•4)\e[m \e[$below TEST PROTOKOL (ADMIN ONLY)\e[m"
 echo -e "  \e[$number (•2)\e[m \e[$below TROJAN XRAY & WS\e[m"
 echo -e "  \e[$number (•3)\e[m \e[$below OPENSSH & OPENVPN\e[m" 
 echo -e " \e[$line╒════════════════════════════════════════════════════════════╕\e[m"
