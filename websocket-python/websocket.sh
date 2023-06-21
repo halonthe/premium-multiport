@@ -68,6 +68,9 @@ Restart=on-failure
 WantedBy=multi-user.target
 EOF
 
+# // INSTALL PYTHON
+apt install python
+
 # // PYTHON WEBSOCKET TLS && NONE
 wget -q -O /usr/local/bin/ws-https https://raw.githubusercontent.com/${GitUser}/premium-multiport/main/${namafolder}/ws-https; chmod +x /usr/local/bin/ws-https
 
