@@ -212,7 +212,7 @@ case $menu in
     ssh
     ;;
 4)
-    maxisdigi
+    nyoba-doang
     ;;
 5)
     system
